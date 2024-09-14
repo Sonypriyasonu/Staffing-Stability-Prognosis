@@ -1,1 +1,7 @@
-# Staffing-Stability-Prognosis
+# Staffing-Stability-Prognosis![Screenshot (70)](https://github.com/user-attachments/assets/4913ab3c-fee5-4636-a276-d6ad33e90992)
+![Screenshot (71)](https://github.com/user-attachments/assets/b2576251-8de5-4125-ac4a-5764d96b350c)
+![Screenshot (72)](https://github.com/user-attachments/assets/265d9311-e491-44a0-85d4-7e319bcbd15b)
+![Screenshot (73)](https://github.com/user-attachments/assets/fd453e82-aed1-418a-838b-305e4f323dec)
+![Screenshot (74)](https://github.com/user-attachments/assets/0939962a-d785-4764-9659-a68163cd6bce)
+![Screenshot (76)](https://github.com/user-attachments/assets/cd4660e1-ae32-4a24-920e-77a4c7d036d2)
+![Screenshot (78)](https://github.com/user-attachments/assets/d88f2619-fe55-46ef-9f06-2693fc7b3b89)
