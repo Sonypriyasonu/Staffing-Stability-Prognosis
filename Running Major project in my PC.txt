@@ -1,0 +1,18 @@
+jupyter notebook --gateway-url=http://my-gateway-server:8888
+
+
+run this command in git bash automatically browser gets opened with all folders on desktop
+
+
+open project folder present on desktop if not present in the browser opened.
+
+
+Already run program is saved in there
+
+
+
+
+
+https://jupyter-notebook.readthedocs.io/en/stable/public_server.html#running-the-notebook-with-a-customized-url-prefix
+
+If there is doubt refer above link
